@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## My name is Sergio Manuel Cortés Ramos
-🔭 I’m a vue and laravel developer and CCEO software development collaborator.
+🔭 I’m a vue, laravel and java developer.
 I have been completed my studies on engineering in strategic information systems in the Polytechnic University of Aguascalientes.
 
 <!--
