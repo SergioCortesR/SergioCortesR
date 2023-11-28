@@ -1,7 +1,9 @@
 ### Hi there 👋
-## My name is Sergio Manuel Cortés Ramos
+## My name is Sergio Cortés
 🔭 I’m a vue, laravel and java developer.
 I have been completed my studies on engineering in strategic information systems in the Polytechnic University of Aguascalientes.
+
+💻 I’m currently working on a company called INEGI informa maintaining modules of its web system using java JSF and Oracle Database.
 
 <!--
 **SergioCortesR/SergioCortesR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
